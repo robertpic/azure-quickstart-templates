@@ -5,7 +5,7 @@
   "summary": "This template is a subscription level template that will create a role definition.",
   "type": "SubscriptionDeployment",
   "validationType": "Manual",
-  "githubUsername": "bmoore-msft",
+  "githubUsername": "robertpic-msft",
   "docOwner": "rolyon",
   "dateUpdated": "2021-11-11"
 }
