@@ -5,7 +5,7 @@
     "summary": "This template is a subscription level template that will create a resourceGroup.",
     "type": "SubscriptionDeployment",
     "validationType": "Manual",
-    "githubUsername": "vermegi",
+    "githubUsername": "robertpic",
     "dateUpdated": "2020-11-02"
 }
 
